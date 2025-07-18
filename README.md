@@ -6,7 +6,7 @@ I'm interested in building cool and fast software! I'm proficient in full-stack 
 
 **Currently, I am:**
 
-- Interning at X (fka Twitter), contributing to the Core Infrastructure team.
+- Interning at xAI/X (fka Twitter), contributing to the Core Infrastructure team.
 
 **Previously, I was:**
 
